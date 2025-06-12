@@ -10,7 +10,8 @@ Traditional Intrusion Detection Systems (IDS) and firewalls often rely on rule-b
 And more...
 The goal is to build a model that can automatically learn patterns from request data and accurately identify whether a web request is malicious or benign.
 
-#Technologies Used
+**Technologies Used:**
+
 1. Python 
 2. TensorFlow / Keras or PyTorch
 3. Scikit-learn
@@ -18,7 +19,8 @@ The goal is to build a model that can automatically learn patterns from request 
 5. Matplotlib / Seaborn
 6. Jupyter Notebook
 
-#Project Structure
+**Project Structure:**
+
 📁 Detecting-Web-Attacks/
 ├── data/                  # Dataset and preprocessing scripts
 ├── models/                # Saved model files
@@ -27,7 +29,7 @@ The goal is to build a model that can automatically learn patterns from request 
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project overview
 
-#Getting Started
+**Getting Started:**
 
 1. Clone the repository
    git clone https://github.com/yourusername/Detecting-Web-Attacks.git
@@ -38,7 +40,7 @@ The goal is to build a model that can automatically learn patterns from request 
     python src/train_model.py
 4. Evaluate the model
  		python src/evaluate_model.py
-# Applications
+**Applications:**
 1. Web Application Firewalls (WAFs)
 2. Real-time HTTP/HTTPS traffic monitoring
 3. Threat detection in enterprise networks
