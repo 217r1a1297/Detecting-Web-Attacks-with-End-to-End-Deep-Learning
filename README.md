@@ -38,7 +38,7 @@ The goal is to build a model that can automatically learn patterns from request 
 **Getting Started:**
 
 1. Clone the repository
-   git clone https://github.com/yourusername/Detecting-Web-Attacks.git
+   git clone https://github.com/Kodam Mahesh/Detecting-Web-Attacks.git
    cd Detecting-Web-Attacks
 2. Install dependencies
     pip install -r requirements.txt
