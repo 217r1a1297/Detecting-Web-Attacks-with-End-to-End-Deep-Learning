@@ -22,6 +22,7 @@ The goal is to build a model that can automatically learn patterns from request 
 **Project Structure:**
 
 📁 Detecting-Web-Attacks/
+
 ├── data/                  # Dataset and preprocessing scripts
 
 ├── models/                # Saved model files
