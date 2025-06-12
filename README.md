@@ -46,6 +46,7 @@ The goal is to build a model that can automatically learn patterns from request 
     python src/train_model.py
 4. Evaluate the model
  		python src/evaluate_model.py
+
 **Applications:**
 1. Web Application Firewalls (WAFs)
 2. Real-time HTTP/HTTPS traffic monitoring
