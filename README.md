@@ -23,10 +23,15 @@ The goal is to build a model that can automatically learn patterns from request 
 
 📁 Detecting-Web-Attacks/
 ├── data/                  # Dataset and preprocessing scripts
+
 ├── models/                # Saved model files
+
 ├── notebooks/             # Jupyter Notebooks for EDA & training
+
 ├── src/                   # Core Python scripts (training, evaluation, utils)
+
 ├── requirements.txt       # Python dependencies
+
 └── README.md              # Project overview
 
 **Getting Started:**
